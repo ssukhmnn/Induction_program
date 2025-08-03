@@ -81,3 +81,18 @@ Later, we were taken for a **department visit**, where our faculty members welco
 Overall, Day 1 of the induction program was full of inspiration, positivity, and useful information. Hearing from so many experienced and motivating speakers helped us feel more connected and confident about starting our journey at GNDEC. From spiritual beginnings to practical insights — it was a powerful and memorable start to our college life.
 
 
+## 🗓️ Day 2
+
+### 🧠 Expert Lecture by Dr. Arashdeep Singh (1:00 PM – 2:00 PM)
+We attended an insightful lecture by Dr. Arashdeep Singh in the auditorium. The topic was **“Food: A Pivotal Role in Student's Overall Wellness.”**  
+He discussed the importance of balanced nutrition, hydration, and healthy food habits for mental focus and physical energy, especially for students managing busy schedules.
+
+### 🚀 Session by Causmic Club & Induction Launch (2:00 PM – 3:00 PM)
+The **Causmic Club** hosted an engaging session that officially launched the **Induction Activities**. They introduced us to various creative opportunities and encouraged us to participate in technical and cultural events throughout the program.
+
+### 💻 GitHub Tutorial (3:00 PM – 4:15 PM)
+A hands-on session was conducted where we were guided through the process of:
+- Creating a GitHub account  
+- Setting up our first repository  
+- Understanding basic version control concepts  
+This session helped many of us take our first step into open-source and code portfolio building.

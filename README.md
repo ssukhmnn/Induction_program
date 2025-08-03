@@ -1,48 +1,83 @@
-# Induction_program
-GNDEC 2025
+# Induction Program – GNDEC 2025
 
+**👤 Name:** Sukhman Singh  
+**👨‍👦 Father's Name:** Gurmeet Singh  
+**💻 Branch:** Computer Science & Engineering (CSE)  
+**🆔 Registration No:** 2510765  
+**📱 Mobile No:** 8288942467  
+**📧 Email:** ssukhmnn@gmail.com  
+**🖼️ Photograph:**  
+![My Photo](https://github.com/ssukhmnn/Induction_program/raw/main/WhatsApp%20Image%202025-08-02%20at%2019.11.07_1c910071.jpg)
 
-**NAME:** Sukhman Singh 
-**FATHERS NAME:** Gurmeet Singh
-**BRANCH:** CSE
-**REGISTRAION NO:** 2510765
-**MOBILE NO:** 8288942467
-**EMAIL:** ssukhmnn@gmail.com
-**PHOTOGRAPH:** ![[*My Photo* https://github.com/ssukhmnn/Induction_program/raw/main/WhatsApp%20Image%202025-08-02%20at%2019.11.07_1c910071.jpg)]
+---
 
-#**DAY1**
+## 🗓️ **Day 1**
 
-At First I reached the college around 8:30 AM and headed straight to the Gurdwara Sahib inside the campus the gurdwara  has a simple and peaceful design. The calm atmosphere and sound of SHRI JAPJI SAHIB  created a peaceful start to the day. After JAPJI SAHIB the ragi jatha started with "Dolan te rakho prabhu Nanak deh kar hath...." this created a postivity, and then the first shabad begins ragi Singh started with Shabad *Waheguru* in Kehrwa tal so that sangat can start concentrating. shabad resited by him were- "Satgur Hoye Dyal"," Kar Kirpa Tere Gun Gawan","Apni Bhagti Laye...." and more. It was a great begining of day!  
-At 10:30 AM I went to the Auditorium, seniors welcomed everyone in a floral way.
+I reached the college around **8:30 AM** and went straight to the *Gurdwara Sahib* inside the campus. The design of the Gurdwara was simple and peaceful. The calm atmosphere and the sound of **Shri Japji Sahib** gave a very positive and spiritual start to the day.
 
-The first session was taken by *Mr.Harsimran Singh Jaggi* who spoke about infrastructure, research, Facilities and active student clubs in college. He told that GNDEC has been contributing to quality technical education since 1956. Also that 70%seats are reserved for the students from rural areas. The foundation Stone was laid in 1956 by the Dr. Rajendar prashad, the first President of india. He presented the essence of college.
+After Japji Sahib, the *Ragi Jatha* began with “**Dolan te rakho prabhu Nanak deh kar hath**...” — this created a beautiful spiritual vibe. The first shabad started with *Waheguru* in **Kehrwa Taal**, helping the *sangat* focus their minds. The shabads included:
+- *Satgur Hoye Dyal*
+- *Kar Kirpa Tere Gun Gawan*
+- *Apni Bhagti Laye...*
 
-The Next session was delivered by Dr.Harpreet Kaur grewal (Head of department of applied science) who focused on motivating all students of 1st year in different and unique ways like saying student life as a "continuous function" and told the importance of begining of student life. She made all smile by her motivating speech. A video was presented during speech which was animated to show a graph representing "Growth" along y axis and alphabet 'P' stands for many words like pressure, paitent, persistence, perceiverence and ultimately placement which showa a concluded track to placement and as p is getting bigger growth along x axis is also getting increemented. She motivated all of us to do hardwork belive in god and faculty.
+It was a divine and energetic start to the day!
 
-After that **SPEAKER 3:** *Dr.Akshay* whoe xplained that we should also focus on communication skills, team work leadership qualities, what other students have been sharing, maintaining a balance between all the things like co-curricular technical activities, sports and try to build a good skill set. one without skills will face difficulties. one should try to be curious to ask questions to the teachers to interact with your seniors by which we will get knowledge and right path. He told to be consistent, motivated, learning and grow, also he told that engineering is not only about solving of equatiions.it is much beyond it He guided students in the field of academia with his kind words.
+---
 
-**SPEAKER 4:** *Dr.Parminder Singh* He gave an example of shaheed "Pooran singh" to explain that if we are dedicated we can do anything and no power in this universe can stop its true that we face many difficulties in our path but that difficulties cant beat dedication!. By saying this he motivated to do hard work, He also told to repect our parents , there can be a substitute of "Intelligence" but there is no substitute of "Hard Work", he ended up his speach by saying that these crucial 4 years is the time which will build up your future.
+At **10:30 AM**, we gathered in the auditorium where the seniors gave us a floral welcome. The sessions began with a series of inspiring and informative talks:
 
-**SPEAKER 5:** Dr. *Sehajpal Singh Principal*   He made us familiar to reality that Computer Science and IT branch is playing a inevitable and important role in our society, its now attached with our quality of life, it has improved our daily life problem solving techniques. He told us about Ai and our responsibilites have been increased. in past one would get ready for entering the market after 4 years of experience but in todays era of technology it may take 6 years this means we need to do more hardwork we need to do that hardwork in these 4 years we need to be better than AI by polishing our skills at pro level, we should have great skill set. He told about competition, also he told that all what we need to be at pro level is available in this institute.
-He encouraged us to be religious to our religion, honest, repect parents and teachers to do hardwork, and to be confident. This shows that he is a man of vision dedication.
+### 🎤 **Speaker 1: Mr. Harsimran Singh Jaggi**
+He gave us a brief about the college infrastructure, research labs, student clubs, and various facilities. He proudly told us that **GNDEC has been contributing to quality technical education since 1956**, and that **70% seats are reserved for rural students**. He shared that the foundation stone was laid by *Dr. Rajendra Prasad*, the first President of India. His talk gave us a strong introduction to the essence of the college.
 
-**SPEAKER 6:** *Ravinder Garg* He mainly focused on explaining the results of hardwork the importantance of hardwork and some educational thoughts.
+### 🎤 **Speaker 2: Dr. Harpreet Kaur Grewal**  
+*(Head, Department of Applied Science)*  
+She delivered a motivating session where she compared student life to a **"continuous function"** — always growing and evolving. She used a creative video showing the graph of *growth vs. letter ‘P’*, where P stood for:  
+`Pressure, Patience, Persistence, Perseverance, and Placement`  
+As the size of 'P' increased, so did growth, symbolizing progress towards our goals. Her words encouraged us to trust our teachers, work hard, and stay spiritually grounded.
 
+### 🎤 **Speaker 3: Dr. Akshay**  
+He emphasized the importance of **communication skills, leadership, teamwork**, and consistency. He advised us to be curious, interact with teachers and seniors, and stay active in both technical and extracurricular activities. He reminded us that engineering is not just about solving equations — it's about real-world skills and continuous learning.
 
-**SPEAKER 7:** *Dr.Kulwinder Singh(Head of Department of information technology)* His speach was focused on motivating the new batch students by saying if you will be consistent in this college then deffiniately you will build up a bright future.
+### 🎤 **Speaker 4: Dr. Parminder Singh**  
+He gave the inspiring example of *Shaheed Pooran Singh*, explaining that **dedication can defeat all difficulties**. He told us to always respect our parents and remember:  
+> *“There can be a substitute for intelligence, but never for hard work.”*  
+He ended with a powerful message — *these 4 years will shape our entire future*.
 
-**SPEAKER 8:** *Ashok Singhla (Financial Advisor)* He provided and awared about valuable insights on educational loans during his session. He explained the step by step process of applying for an education loan and highlighted the importance of maintaining a good score in studies and what documents are needed. He also discussed the interest rates, repayment policies, and how students can avail government schemes. His talk helped students understand how to manage finances during their academic journey.
+### 🎤 **Speaker 5: Dr. Sehajpal Singh (Principal)**  
+He highlighted how **Computer Science and IT** are deeply connected with daily life now. He spoke about **AI's role in society** and explained how we must **polish our skills to a pro level** to stay ahead. He encouraged us to:
+- Believe in ourselves
+- Stay honest and humble
+- Respect religion, parents, and teachers
 
-**SPEAKER 9:** *Rakesh Kumar* (Deputy commisoner of ludhiana), shared his college life experiences, some memories. He is a proud  1991 batch alumnus of GNDEC. His speach was full of inspiration  and real life lessons. It motivated us to stay focused and make the most of our time in college.
+His words reflected deep vision and a clear roadmap for our growth.
 
-The session ended up at 1 pm after a break of 30 minutes NCC candidates came and gave their introductions. After that we went for the department visit, where the teacher s welcomed us and introduced us to the college and our respective department. It was a good experience to explore the campus and understood our academic environment.
+### 🎤 **Speaker 6: Mr. Ravinder Garg**  
+He focused on the value of **hard work** and shared practical thoughts on how consistent efforts lead to great results.
 
-Overall, Day 1 of the induction program was quite informative and inspiring. We got to hear from experienced speakers who shared valuable knowledge and motivation. The department visit helped us feel more connected to the college and our branch. It was a great start to our journey at GNDEc. 
+### 🎤 **Speaker 7: Dr. Kulwinder Singh** *(HOD, Information Technology)*  
+He motivated the new batch by saying:
+> *“If you stay consistent at GNDEC, you will definitely build a bright future.”*
 
+### 🎤 **Speaker 8: Mr. Ashok Singla (Financial Advisor)**  
+He gave a helpful session on **educational loans** — explaining:
+- Step-by-step process to apply
+- Required documents
+- Interest rates and government schemes  
+His session was very practical and helped us understand how to manage finances during our course.
 
-***DAY 2***
+### 🎤 **Speaker 9: Mr. Rakesh Kumar** *(Deputy Commissioner, Ludhiana & 1991 Batch Alumnus)*  
+He shared his college memories, real-life challenges, and lessons. His speech was filled with pride and inspiration. His words encouraged us to stay focused and make the most of this golden time.
 
+---
 
+After the sessions, around **1:00 PM**, we had a lunch break. Then, from **1:30 PM to 2:00 PM**, the **NCC candidates** came and introduced themselves and the unit.
 
+Later, we were taken for a **department visit**, where our faculty members welcomed us and introduced us to the college and our respective departments. It was a great opportunity to explore our new academic environment.
+
+---
+
+### 📝 **Summary – Day 1**
+
+Overall, Day 1 of the induction program was full of inspiration, positivity, and useful information. Hearing from so many experienced and motivating speakers helped us feel more connected and confident about starting our journey at GNDEC. From spiritual beginnings to practical insights — it was a powerful and memorable start to our college life.
 
 

@@ -11,7 +11,7 @@
 
 ---
 
-## 🗓️ **Day 1**
+##  **Day 1**
 
 I reached the college around **8:30 AM** and went straight to the *Gurdwara Sahib* inside the campus. The design of the Gurdwara was simple and peaceful. The calm atmosphere and the sound of **Shri Japji Sahib** gave a very positive and spiritual start to the day.
 

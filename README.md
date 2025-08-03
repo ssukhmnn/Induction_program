@@ -2,7 +2,7 @@
 GNDEC 2025
 
 
-**NAME:** Sukhman Singh
+**NAME:** Sukhman Singh 
 **FATHERS NAME:** Gurmeet Singh
 **BRANCH:** CSE
 **REGISTRAION NO:** 2510765
@@ -10,7 +10,8 @@ GNDEC 2025
 **EMAIL:** ssukhmnn@gmail.com
 **PHOTOGRAPH:** ![[*My Photo* https://github.com/ssukhmnn/Induction_program/raw/main/WhatsApp%20Image%202025-08-02%20at%2019.11.07_1c910071.jpg)]
 
-##**DAY1** (31.07.2025)
+#**DAY1**
+
 At First I reached the college around 8:30 AM and headed straight to the Gurdwara Sahib inside the campus the gurdwara  has a simple and peaceful design. The calm atmosphere and sound of SHRI JAPJI SAHIB  created a peaceful start to the day. After JAPJI SAHIB the ragi jatha started with "Dolan te rakho prabhu Nanak deh kar hath...." this created a postivity, and then the first shabad begins ragi Singh started with Shabad *Waheguru* in Kehrwa tal so that sangat can start concentrating. shabad resited by him were- "Satgur Hoye Dyal"," Kar Kirpa Tere Gun Gawan","Apni Bhagti Laye...." and more. It was a great begining of day!  
 At 10:30 AM I went to the Auditorium, seniors welcomed everyone in a floral way.
 

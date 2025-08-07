@@ -107,7 +107,7 @@ He also talked about his own journey — how he developed his speaking skills ov
 
 Toward the end of his session, he shared a story that left a strong impact. A girl once went for a job interview. When asked her father’s name, she replied honestly. The interviewer stood up and said, “You’re selected.” Inside, she felt proud and said to herself, “Papa, you are great. I didn’t understand you before, but now I do.” This story tied together his message of honesty, self-awareness, and the silent strength that comes from those who support us.
 
-### Exprert lecture by Dr. Priya Darshni Madam on "Universal Human Values"
+## Exprert Lecture by Dr. Priya Darshni Madam on "Universal Human Values"
 
 After a short period, the second expert lecture was delivered by another speaker on the topic of Universal Human Values. The session focused on developing awareness of our responsibilities as individuals and understanding the role of values in everyday life. The speaker explained how respect, empathy, and trust help shape not just our professional lives but also the kind of person we become. The tone of the session was calm and thoughtful, and it encouraged us to reflect more deeply on how we act and how we treat people around us.
 

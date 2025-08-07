@@ -1,13 +1,11 @@
 # Induction Program – GNDEC 2025
 
-** Name:** Sukhman Singh  
-** Father's Name:** Gurmeet Singh  
-** Branch:** Computer Science & Engineering (CSE)  
-** Registration No:** 2510765  
-** Mobile No:** 8288942467  
-** Email:** ssukhmnn@gmail.com  
-** Photograph:**  
-![My Photo]          (<img <img src="https://github.com/ssukhmnn/Induction_program/raw/main/WhatsApp%20Image%202025-08-02%20at%2019.11.07_1c910071.jpg" alt=" Photo" width="200"/>
+**Name:** Sukhman Singh  
+**Father's Name:** Gurmeet Singh  
+**Branch:** Computer Science & Engineering (CSE)  
+**Registration No:** 2510765  
+**Mobile No:** 8288942467  
+**Email:** ssukhmnn@gmail.com  
 
 ---
 
@@ -85,7 +83,7 @@ Overall, Day 1 of the induction program was full of inspiration, positivity, and
 
 ###  Expert Lecture by Dr. Arashdeep Singh (1:00 PM – 2:00 PM)
 We attended an insightful lecture by Dr. Arashdeep Singh in the auditorium. The topic was **“Food: A Pivotal Role in Student's Overall Wellness.”**  
-He discussed the importance of balanced nutrition, hydration, and healthy food habits for mental focus and physical energy, especially for students managing busy schedules.
+He discussed the importance of balanced nutrition, hydration, and healthy food habits for mental focus and physical energy, especially for students managing busy schedules which would also help us to maintain our mental and physical health.
 
 ###  Session by Causmic Club & Induction Launch (2:00 PM – 3:00 PM)
 The **Causmic Club** hosted an engaging session that officially launched the **Induction Activities**. They introduced us to various creative opportunities and encouraged us to participate in technical and cultural events throughout the program.
@@ -96,3 +94,24 @@ A hands-on session was conducted where we were guided through the process of:
 - Setting up our first repository  
 - Understanding basic version control concepts  
 This session helped many of us take our first step into open-source and code portfolio building.
+
+## Day 3
+
+## Expert Lecture by Dr.Jaswinder Singh (Incharger-IAPT)
+
+The day started with a deeply engaging session in the auditorium. The speaker began by asking all students to close their eyes and try to look within themselves. His motive was to help us experience inner stillness and calmness. After the silence, he asked what we saw or felt. One student said their mind wasn’t still, another visualized Guru Nanak Dev Ji. Some students saw their future success, one imagined being in space, another said she saw Shiv Ji. One student said his focus remained entirely on the center of his head. 
+
+The speaker linked these experiences with science and also brought in references from Gurbani, including a line from Japji Sahib: “Kita pasao eko kawaao, tis te hoye lakh dariyaao,” which he explained in depth. He spoke about vibrations and how clapping generates vibrations that can remove bacteria from our hands. He introduced new ways of meditation and shared various personal experiments he had done to better understand the self.
+
+He also talked about his own journey — how he developed his speaking skills over time. Every time he was called to speak on a stage like this, he treated it as a test and gave his best. Over the years, he said, he learned a lot and enjoyed every moment of it. He thanked the GNDEC staff for their support and told us first-year students that we are lucky to be learning under such good teachers.
+
+Toward the end of his session, he shared a story that left a strong impact. A girl once went for a job interview. When asked her father’s name, she replied honestly. The interviewer stood up and said, “You’re selected.” Inside, she felt proud and said to herself, “Papa, you are great. I didn’t understand you before, but now I do.” This story tied together his message of honesty, self-awareness, and the silent strength that comes from those who support us.
+
+### Exprert lecture by Dr. Priya Darshni Madam on "Universal Human Values"
+
+After a short period, the second expert lecture was delivered by another speaker on the topic of Universal Human Values. The session focused on developing awareness of our responsibilities as individuals and understanding the role of values in everyday life. The speaker explained how respect, empathy, and trust help shape not just our professional lives but also the kind of person we become. The tone of the session was calm and thoughtful, and it encouraged us to reflect more deeply on how we act and how we treat people around us.
+
+
+
+
+

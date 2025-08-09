@@ -1,4 +1,4 @@
-<img width="2240" height="1400" alt="image" src="https://github.com/user-attachments/assets/520efda1-16d7-4efd-92fc-dc3b31111851" /># Induction Program – GNDEC 2025
+
 
 **Name:** Sukhman Singh  
 **Father's Name:** Gurmeet Singh  

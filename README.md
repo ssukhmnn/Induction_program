@@ -1,4 +1,4 @@
-# Induction Program – GNDEC 2025
+<img width="2240" height="1400" alt="image" src="https://github.com/user-attachments/assets/520efda1-16d7-4efd-92fc-dc3b31111851" /># Induction Program – GNDEC 2025
 
 **Name:** Sukhman Singh  
 **Father's Name:** Gurmeet Singh  
@@ -110,6 +110,23 @@ Toward the end of his session, he shared a story that left a strong impact. A gi
 ## Exprert Lecture by Dr. Priya Darshni Madam on "Universal Human Values"
 
 After a short period, the second expert lecture was delivered by another speaker on the topic of Universal Human Values. The session focused on developing awareness of our responsibilities as individuals and understanding the role of values in everyday life. The speaker explained how respect, empathy, and trust help shape not just our professional lives but also the kind of person we become. The tone of the session was calm and thoughtful, and it encouraged us to reflect more deeply on how we act and how we treat people around us.
+
+
+##Day 4
+
+At 12:30, we had an expert lecture by Priya Darshini Madam on “Universal Human Values – 2.” She picked up from where she had left on Day 3 and went deeper into the idea of Right Understanding. She began by making us see the difference between what animals need and what humans need. Animals have only one requirement — physical facilities like food, shelter, and safety. But human beings, apart from physical facilities, also need the right understanding in order to live happily.
+
+She explained that just having physical needs fulfilled is necessary but not adequate. A person might have all comforts and still be unhappy if there’s no harmony in relationships, no clarity in thoughts, and no right understanding. On the other hand, even with limited resources, if there is understanding and mutual respect, life can still feel rich and fulfilling. She pointed out that when we lack right understanding, it leads to unhappiness — not just for us, but for people around us. Sometimes we even cause hurt to others without meaning to, simply because our thoughts and values aren’t clear.
+
+At one point, she paused and asked us to honestly think about our daily lives — “How much time do you give to yourself for self-reflection, for understanding your relationships, for nurturing harmony?” Most of us realized that our schedules are filled with tasks, assignments, and studies, but very little time goes into understanding ourselves or working on our values. That’s when she reminded us that true growth isn’t just about grades or achievements — it’s also about building inner clarity, empathy, and respect for others.
+
+The way she spoke was simple but very impactful. It wasn’t just theory — she connected it to situations we could actually relate to in our day-to-day life. By the end of the lecture, it felt less like a classroom session and more like a conversation we needed to have with ourselves for a long time.
+
+Then, from 3 to 4 pm, it was the Causmic Club session. They started by introducing themselves and the purpose of the club. The name itself — Causmic — came from their idea of blending “cause” with the vastness of the “cosmos,” meaning they aim to explore big ideas, solve real problems, and push creative boundaries.
+
+They told us about the different events they have organized over time — GNE’s ACME, GNE’s APEX, Genconian Craft Prix, Bachelor Buddies, and Ambit Youth Parliament. Each one had its own vibe — some were technical, some were creative, and some were about open discussions and debates. What stood out was that the club is not restricted to one department or year — it’s open to anyone who wants to learn, share, and contribute.
+
+They also spoke about how being part of the club is not just about attending events but actually getting hands-on experience — working in teams, taking up leadership roles, learning to handle challenges, and making ideas come to life. The energy they brought into the room made the whole session feel like more than just a formality. By the end, many of us were already thinking about how we could be a part of it.
 
 
 

@@ -160,6 +160,20 @@ He played a quick interactive game by asking if anyone knew the last letter in t
 
 ---
 
+## Day 7 – Induction Program
+
+The first session of the day was conducted by **Dr. Parminder Singh** (Dean – Student Welfare).  
+He spoke about the wide range of sports facilities and opportunities available in the college, highlighting how important it is to balance education with hobbies like sports. He explained that participating in sports not only improves physical fitness but also plays a major role in maintaining mental well-being.  
+Dr. Singh encouraged us to keep polishing our talents alongside academics and shared the process of how to participate in different sports events organized by the college.
+
+After his session, a member of the **Causmic Club** briefly introduced the various departmental clubs on campus. The focus was on encouraging students to get involved, explore new interests, and make the most of the opportunities these clubs provide.
+
+The next speaker was **Dr. Amit Kamra** (Associate Professor in the IT Department & Incharge – DMC).  
+He introduced the **Digital Marketing Club**, explained what digital marketing is, and shared how being part of this club could help us develop valuable skills while boosting employability. Dr. Kamra spoke about his personal journey, the challenges he faced, and how he built his team. He also showcased some of their project videos and introduced a few club members. The way he presented the field of digital marketing made it sound innovative, practical, and exciting.
+
+The final session of the day was led by **Dr. Randhir Singh** on *“Conduct of Examination.”*  
+He gave a detailed walkthrough of the **GNDEC academic portal**, explaining almost every section in a clear and structured way. The session covered essential information about the examination process, submission timelines, and tools available on the portal. This was particularly useful for understanding how to navigate our academic resources effectively.
+
 
 
 

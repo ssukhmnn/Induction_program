@@ -128,7 +128,8 @@ They told us about the different events they have organized over time — GNE’
 
 They also spoke about how being part of the club is not just about attending events but actually getting hands-on experience — working in teams, taking up leadership roles, learning to handle challenges, and making ideas come to life. The energy they brought into the room made the whole session feel like more than just a formality. By the end, many of us were already thinking about how we could be a part of it.
 
-##Day 5 (05.08.2025) no lecture for us
+## Day 5 (05.08.2025)
+no lecture in Auditorium
 
 ## Day 6 – Induction Program Experience
 

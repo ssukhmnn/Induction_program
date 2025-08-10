@@ -81,14 +81,14 @@ Overall, Day 1 of the induction program was full of inspiration, positivity, and
 
 ##  Day 2
 
-###  Expert Lecture by Dr. Arashdeep Singh (1:00 PM – 2:00 PM)
+###  Expert Lecture by Dr. Arashdeep Singh )
 We attended an insightful lecture by Dr. Arashdeep Singh in the auditorium. The topic was **“Food: A Pivotal Role in Student's Overall Wellness.”**  
 He discussed the importance of balanced nutrition, hydration, and healthy food habits for mental focus and physical energy, especially for students managing busy schedules which would also help us to maintain our mental and physical health.
 
-###  Session by Causmic Club & Induction Launch (2:00 PM – 3:00 PM)
+###  Session by Causmic Club & Induction Launch 
 The **Causmic Club** hosted an engaging session that officially launched the **Induction Activities**. They introduced us to various creative opportunities and encouraged us to participate in technical and cultural events throughout the program.
 
-###  GitHub Tutorial (3:00 PM – 4:15 PM)
+###  GitHub Tutorial 
 A hands-on session was conducted where we were guided through the process of:
 - Creating a GitHub account  
 - Setting up our first repository  
@@ -127,6 +127,39 @@ Then, from 3 to 4 pm, it was the Causmic Club session. They started by introduci
 They told us about the different events they have organized over time — GNE’s ACME, GNE’s APEX, Genconian Craft Prix, Bachelor Buddies, and Ambit Youth Parliament. Each one had its own vibe — some were technical, some were creative, and some were about open discussions and debates. What stood out was that the club is not restricted to one department or year — it’s open to anyone who wants to learn, share, and contribute.
 
 They also spoke about how being part of the club is not just about attending events but actually getting hands-on experience — working in teams, taking up leadership roles, learning to handle challenges, and making ideas come to life. The energy they brought into the room made the whole session feel like more than just a formality. By the end, many of us were already thinking about how we could be a part of it.
+
+##Day 5 (05.08.2025) no lecture for us
+
+## Day 6 – Induction Program Experience
+
+
+
+---
+
+
+The day started with **Sardar Gurcharan Singh Grewal**, member of SGPC, who greeted everyone warmly with a “Fateh” and told us that this wouldn’t be a lecture, but a conversation. His style was friendly and engaging right from the start.  
+
+He spoke about **Guru Nanak Dev Ji** and his *4 Udasian*, and shared the core principles – *Kirat Karo, Naam Japo, Vand Shako*. He reminded us that there are many engineering colleges in Punjab, but GNE stands out because of its focus on *Vidya Veechari Tan Parupkari*, its lack of corruption, and the dedication of its professors.  
+
+He encouraged us to simply follow the right path – and told us we had already made the right choice by joining GNE. He also shared a personal note, saying that in the past, he himself had once dreamt of studying at this college. Towards the end, he invited students to share their own feelings and experiences from the induction days so far, making the session feel even more interactive.  
+
+---
+
+  
+Next, **Dr. Lakhvir Singh Khana** (Incharge – CML, SWAYAM–NPTEL Coordinator) took the stage. He gave us a brief but clear introduction to the SWAYAM and NPTEL platforms, encouraging everyone to enroll in at least one course. He explained that these are taught by IIT professors and cover a huge range of topics, allowing us to learn anything we are interested in.  
+
+He also emphasized that we should focus on NPTEL courses since they are most relevant to our academic path. We even logged in and created our accounts during the session. On my way home later, I explored the options and chose a course called **Developing Soft Skills and Personality** – and I’m genuinely excited about it.  
+
+---
+
+### Closing Session  
+The last session was by **Arvind Dhingra** (Director – STEP & Incharge – TAC). He noticed that some students were getting bored, so he cut straight to the point. He told us, *“If you do something with passion, then only you succeed.”*  
+
+He played a quick interactive game by asking if anyone knew the last letter in the English alphabet. Someone said “A”, and he playfully accepted it as correct. His short 7–8 minute talk was light, engaging, and a nice way to close the day.  
+
+---
+
+
 
 
 

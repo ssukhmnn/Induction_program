@@ -112,7 +112,7 @@ Toward the end of his session, he shared a story that left a strong impact. A gi
 After a short period, the second expert lecture was delivered by another speaker on the topic of Universal Human Values. The session focused on developing awareness of our responsibilities as individuals and understanding the role of values in everyday life. The speaker explained how respect, empathy, and trust help shape not just our professional lives but also the kind of person we become. The tone of the session was calm and thoughtful, and it encouraged us to reflect more deeply on how we act and how we treat people around us.
 
 
-##Day 4
+## Day 4
 
 At 12:30, we had an expert lecture by Priya Darshini Madam on “Universal Human Values – 2.” She picked up from where she had left on Day 3 and went deeper into the idea of Right Understanding. She began by making us see the difference between what animals need and what humans need. Animals have only one requirement — physical facilities like food, shelter, and safety. But human beings, apart from physical facilities, also need the right understanding in order to live happily.
 
